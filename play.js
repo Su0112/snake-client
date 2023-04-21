@@ -2,6 +2,6 @@ const { connect } = require("./client");
 const { setupInput } = require("./input");
 
 console.log("Connecting ...");
-connect();
+const conn = connect();
 // call the setupInput function to set up stdin
-setupInput();
+setupInput(conn);
