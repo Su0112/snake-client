@@ -8,8 +8,9 @@ Before you can run this client, you will need to be running the server side whic
 
 ## Final Product
 
-!["screenshot description"](#)
-!["screenshot description"](#)
+!["client-server terminal screenshot of the initial game page"](/images/snake_initial.png)
+!["client-server terminal screenshot while playing snake game"](/images/snake_game.png)
+!["client-server terminal screenshot when the player is idled and the snake is dead"](/images/snake_dead_bcoz_idled.png)
 
 ## Getting Started
 
