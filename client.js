@@ -23,8 +23,6 @@ const connect = function() {
   return conn;
 };
 
-
-
 // export the connect function
 module.exports = {
   connect,
